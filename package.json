@@ -2,6 +2,7 @@
   "name": "the-fade-brigade",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://TJGit11.github.io/the-fade-brigade",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
